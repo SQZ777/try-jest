@@ -1,0 +1,25 @@
+{
+  "name": "try-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SQZ777/try-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SQZ777/try-jest/issues"
+  },
+  "homepage": "https://github.com/SQZ777/try-jest#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^29.3.1",
+    "prettier": "^2.7.1"
+  }
+}
